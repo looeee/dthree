@@ -36,7 +36,7 @@
     "rollup-plugin-terser": "^5.2.0"
   },
   "dependencies": {
-    "three": "^0.113.2"
+    "three": "^0.125.0"
   },
   "babel": {
     "presets": [
