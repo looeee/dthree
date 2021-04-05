@@ -29,7 +29,7 @@
     "eslint-plugin-react": "^7.18.3",
     "eslint-plugin-react-hooks": "^2.4.0",
     "prettier": "^1.19.1",
-    "rollup": "^1.31.1",
+    "rollup": "^1.32.1",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
