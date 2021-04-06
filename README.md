@@ -9,4 +9,4 @@ on [this page](https://discoverthreejs.com/book/first-steps/animation-system/) f
 
 ## TODO
 
-- Finalize V0.1 and upload code to GitHub (if you're reading this on GitHub, note this repo is currently just a stub).
+- Finalize V0.1 and upload code to GitHub (if you're reading this on GitHub, note that this repo is currently just a stub, there's nothing interesting here yet).
